@@ -28,14 +28,6 @@ if(name == "snake"){
 }
 };
 
-class Mammal :: public Animal{
-private string furColor;
-};
-class Bird :: public Animal{
-private float wingSpan;
-};
-class Reptile :: public Animal{
-private bool isVenomous;
-};
+
 
 #endif // ANIMAL_H_INCLUDED
